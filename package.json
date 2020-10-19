@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-plugin-pace",
+  "version": "1.0.0",
+  "description": "Binding for using pace.js in Gatsby. An automatic page load progress visualizer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby-plugin",
+    "gatsby",
+    "pace.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
