@@ -1,9 +1,9 @@
-gatsby-plugin-pace
+## gatsby-plugin-pace
 
 
-pace.js binding for gatsby sites.  support all options pace.js support.
+#### pace.js binding for gatsby sites.  support all options pace.js support.
 
-with additional options: 
+Additional options: 
 
 - theme: (optional) css theme to use with pace.js, default to `minimal`. gatsby-plugin-pace bundled themes includes:
   - minimal
@@ -18,7 +18,7 @@ with additional options:
 
 
 
-in gatsby-config.js
+configuration example: in gatsby-config.js
 ```js
     {
       resolve: 'gatsby-plugin-pace',
